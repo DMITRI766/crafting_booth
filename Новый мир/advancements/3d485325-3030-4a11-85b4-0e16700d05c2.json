@@ -1,0 +1,237 @@
+{
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2024-02-13 09:15:45 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2024-02-13 09:15:37 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/shimmerrock": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:38 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/white_pavement": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/green_pavement": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2024-02-13 09:15:37 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_slab": {
+    "criteria": {
+      "has_item": "2024-02-13 09:15:37 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-02-13 09:14:18 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_wall": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fabulous_pool_upgrade": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:38 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/blue_pavement": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-02-13 09:30:11 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/black_pavement": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2024-02-13 09:15:37 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/yellow_pavement": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/diluted_pool": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_fuel_gauge": "2024-02-13 09:16:40 +0700"
+    },
+    "done": false
+  },
+  "botania:recipes/botania/red_pavement": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-02-13 09:14:18 +0700"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-02-13 09:16:54 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_slab": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-02-13 09:16:58 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slab_recombine/livingrock": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/bifrost_pane": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:38 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/shimmerwood_planks": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:38 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slab_recombine/shimmerrock": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:08 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2024-02-13 09:15:45 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_smelting": {
+    "criteria": {
+      "has_item": "2024-02-13 09:15:37 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_void": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/shimmerrock_slab": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:08 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_pool": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:09 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fabulous_pool": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:08 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_wall": {
+    "criteria": {
+      "has_item": "2024-02-13 09:15:37 +0700"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "creative": "2024-02-13 09:16:06 +0700"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/shimmerrock_stairs": {
+    "criteria": {
+      "has_item": "2024-02-13 09:19:08 +0700"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_stairs": {
+    "criteria": {
+      "has_item": "2024-02-13 09:15:37 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

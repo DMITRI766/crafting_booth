@@ -1,0 +1,15 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "tconstruct:smeltery_controller"
+  },
+  "output": {
+    "item": "tconstruct:foundry_controller"
+  },
+  "mana": 120,
+  "group": "botania:sapling_cycle",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  }
+}
